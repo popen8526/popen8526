@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popen8526)](https://github.com/popen8526/github-readme-stats)
+![Piguheren's GitHub stats](https://github-readme-stats.vercel.app/api?username=popen8526&show_icons=true&theme=radical)
 - 👋 Hi, I’m @popen8526
 - 🌱 I’m currently studied in national taiwan university
 - 📫 email:b10901012@ntu.edu.tw
